@@ -1,0 +1,20 @@
+:root {
+  --cor-fundo: #f7f5ef;
+  --cor-superficie: #ffffff;
+  --cor-texto: #2d332b;
+  --cor-texto-suave: #687063;
+  --cor-borda: #d9ded3;
+  --cor-destaque: #4d7c0f;
+  --cor-destaque-suave: #ecf4df;
+  --cor-perigo: #b42318;
+  --cor-perigo-suave: #fff0ee;
+
+  --espaco-1: 0.25rem;
+  --espaco-2: 0.5rem;
+  --espaco-3: 0.75rem;
+  --espaco-4: 1rem;
+  --espaco-5: 1.5rem;
+  --espaco-6: 2rem;
+  --raio: 0.8rem;
+  --sombra: 0 0.4rem 1.2rem rgba(45, 51, 43, 0.08);
+}
